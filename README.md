@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # core-bot
 Demonstrate the core capabilities of the Microsoft Bot Framework
 
@@ -56,3 +57,6 @@ To learn how, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for
 - [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
 - [Restify](https://www.npmjs.com/package/restify)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+=======
+# azure-prueba-bots
+>>>>>>> 1bed89c47ae6b582ee0c1aa5588f8305196d2ce6
